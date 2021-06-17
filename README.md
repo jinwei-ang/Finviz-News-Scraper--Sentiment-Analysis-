@@ -1,4 +1,4 @@
-# Finviz News Scraper (Sentiment Analysis)
+# News Sentiment for S&P500 Companies
  
 <!-- ABOUT THE PROJECT -->
 ## About The Project
