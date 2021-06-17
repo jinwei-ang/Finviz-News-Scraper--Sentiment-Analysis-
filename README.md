@@ -5,7 +5,7 @@
 The goal of the project is to use scrape Finviz website for news headlines for tickers in S&P500. The headlines were analyzed using the Vader Sentiment Analyzer.
 The data is then presented using Power Bi.
 
-![News_SP500_Sentiment_Dashboard](.\News_SP500_Sentiment_Dashboard.jpg)
+![News_SP500_Sentiment_Dashboard](~\News_SP500_Sentiment_Dashboard.jpg)
 
 
 ### Built With
