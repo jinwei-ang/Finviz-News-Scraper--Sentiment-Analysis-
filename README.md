@@ -12,3 +12,4 @@ The data is then presented using Power Bi.
 * Vader Sentiment
 * BeautifulSoup
 * FinViz
+* PowerBi
